@@ -1,4 +1,4 @@
-# audio_spectral_decomposition_feature_extraction
+# Feature Extraction using Audio Spectral Decompostion
 Spectral decomposition, also referred to as spectral analysis, is a method employed to decompose a signal into its constituent frequencies. This process can be likened to decomposing a complex color into its basic color components. In the realm of audio signals, spectral decomposition provides us with the ability to understand and manipulate the different frequency components that constitute a sound.
 
 This project is centered around the spectral decomposition of audio signals. Our objective is to delve deeper into the complexities of how sounds can be deconstructed into their fundamental frequencies, and how this knowledge can be harnessed in various audio signal processing applications.
